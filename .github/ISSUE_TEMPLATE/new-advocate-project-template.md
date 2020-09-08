@@ -1,6 +1,6 @@
 ---
 name: New advocate project template
-about: Have an idea for the advocates to work on?
+about: Have an idea for advocates to work on?
 title: Project name
 labels: help wanted
 assignees: ''
