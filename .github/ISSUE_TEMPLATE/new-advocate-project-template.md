@@ -2,7 +2,7 @@
 name: New advocate project template
 about: Have an idea for advocates to work on?
 title: Project name
-labels: help wanted
+labels: ''
 assignees: ''
 
 ---
@@ -17,7 +17,7 @@ assignees: ''
 
  - @githubhandle <!-- ⚠️ Use github handles and feel free to and contact information, like the slack handle -->
  - @githubhandle - Slack: `@slackhandle` email: `example@example.com`
- - Qiskit Coach: @githubhandle <!-- ⚠️ Before the final submission, the project needs to have a coach -->
+ - Qiskit mentor: @githubhandle <!-- ⚠️ A mentor who is an expert in the project you will work on. Don't worry if you don't have one yet, we will find a mentor for you -->
 
 # Deliverable
 <!-- A paper, a mobile app, a Terra module, etc -->
